@@ -1,7 +1,9 @@
 ---
-title: Biography
-author: joesepi
 layout: page
+permalink: /about/music.html
+title: Music Bio
+tagline: Pre Least Best Best Bio
+modified: 9-10-2014
 ---
 joesepi is many things.
 
