@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "This is the place to be to know more about dev be"
+tags: [Be, Dev, Tech, Team, PHP, JavaScript, SASS]
 image:
-  feature: oucho-banner2.jpg
+  feature: dark-header-img.jpg
 ---
