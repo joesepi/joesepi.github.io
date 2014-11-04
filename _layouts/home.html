@@ -13,20 +13,24 @@
 
 {% include _navigation.html %}
 
-{% if page.image.feature %}<div class="image-wrap">
+{% if page.image.feature %}
+<div class="image-wrap">
   <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
-  {% if page.image.credit %}<span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>{% endif %}
-</div><!-- /.image-wrap -->{% endif %}
+  {% if page.image.credit %}
+  <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+</div><!-- /.image-wrap -->
+{% endif %}
 
 <div class="article-author-side">
   {% include _author-bio.html %}
 </div>
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-{{ content }}
-  <h3><a href="{{ site.url}}/about/">What's the deal?</a></h3>
-  <p>Joe Sepi is a Sr. Software Engineer at Behance/Adobe and the leader of the indie guitar rock juggernaut, Least Best Beast. Read more in the About page.</p>
-  <h3><a href="{{ site.url}}/articles/">Recent Articles</a></h3>
+  {{ content }}
+  <p>Joe Sepi is a Sr. Software Engineer at <a href="http://be.net" target="_blank">Behance</a>/<a href="http://adobe.com" target="_blank">Adobe</a> and the leader of the indie guitar rock juggernaut, <a href="http://leastbestbeast.com" target="_blank">Least Best Beast</a>. <a href="{{ site.url}}/about/">Read more...</a></p>
+
+  <h3><a href="{{ site.url}}/articles/">Recent Transmissions</a></h3>
   {% for post in site.posts limit:5 %}
   <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
     <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
@@ -42,6 +46,6 @@
 </div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
-  
+
 </body>
 </html>

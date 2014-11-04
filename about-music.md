@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/music.html
 title: Music Bio
-tagline: Pre Least Best Best Bio
+tagline: Pre Least Best Beast Bio
 modified: 9-10-2014
 ---
 joesepi is many things.
