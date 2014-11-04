@@ -1,6 +1,6 @@
-title:            Joe Sepi
-tagline:          Aw yeah
-description:      This the website of Joe Sepi
+title:            Behance Dev
+tagline:          Making Behance Enhanced
+description:      This the website of the technology team behind Behance
 # disqus_shortname:
 # reading_time:     true
 # words_per_minute: 200
@@ -14,9 +14,9 @@ owner:
   bio:            "Code, Music, Life"
   email:          sepi@joesepi.com
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        joe_sepi
+  twitter:        behancedev
   facebook:       joesepi
-  github:         joesepi
+  github:         behance
   stackexchange:  joe-sepi
   linkedin:       joesepi
   instagram:      joesepi
@@ -39,7 +39,9 @@ links:
     url: /
   - title: About
     url: /about/
-  - title: Articles
+  - title: Posts
+    url: /articles/
+  - title: API
     url: /articles/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
