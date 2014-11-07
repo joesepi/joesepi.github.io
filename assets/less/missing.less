@@ -49,7 +49,7 @@ ol,ul {
   background-size: 1.875em 1.5em;
   overflow: hidden;
   white-space: nowrap;
-  text-indent: 0%;
+  text-indent: 100%;
   filter: alpha(Opacity=70);
   opacity: .7;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
@@ -187,7 +187,10 @@ footer[role=contentinfo] {
 }
 
 @media screen and (min-width: 45.0625em) {
-  #nav .block-title,#nav .close-btn,#top .nav-btn {
+  #nav .block-title,
+  #nav .close-btn,
+  //#top .nav-btn
+  #top {
     border: 0;
     clip: rect(0000);
     height: 1px;
@@ -273,7 +276,7 @@ footer[role=contentinfo] {
   .js-ready #nav {
     height: 100%;
     width: 70%;
-    background: #c91b26;
+    background: #011;
     -webkit-box-shadow: inset -1.5em 0 1.5em -.75em rgba(0,0,0,.25);
     -moz-box-shadow: inset -1.5em 0 1.5em -.75em rgba(0,0,0,.25);
     box-shadow: inset -1.5em 0 1.5em -.75em rgba(0,0,0,.25);
