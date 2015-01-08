@@ -12,8 +12,8 @@ Initially expecting that music would take care of him and pay the bills, Sepi wo
 
 Sepi's roommate and bandmate, Joel Braun, got a decent job that gave him a laptop. After only moments of fiddling on this thing called the internet, Sepi was hooked and just had to know how it all worked. Within a short time, he was building websites for their record label and his many bands; as well as: friends, local artists and other people who really couldn't pay him much. But when he finally met his wife, it was then that things really started to get serious. With her gentle encouragement to be more awesome, Sepi set out on the path to master his new skills. Before he knew it, he had worked for The New York Times, Credit Suisse, IAC/InterActiveCorp, Ogilvy and Mather, Sears, a few startups and he now spends his time writing code for Behance/Adobe. A real career had magically fallen into his lap.
 
-Read more about the code half of the story.
+Read more about the code half of the story. (more soon)
 
-Read more about the music half of the story.
+Read more about the music half of the story. (more soon)
 
-Read more about the story whole of the story.
+Read more about the story whole of the story. (more soon)

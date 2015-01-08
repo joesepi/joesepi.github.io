@@ -29,8 +29,6 @@
 
   <div class="home-index" id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
     {{ content }}
-    <p>Joe Sepi is a Sr. Software Engineer at <a href="http://be.net" target="_blank">Behance</a>/<a href="http://adobe.com" target="_blank">Adobe</a> and heads up the indie guitar rock juggernaut known as <a href="http://leastbestbeast.com" target="_blank">Least Best Beast</a>. <a href="{{ site.url}}/about/">Read more...</a></p>
-
     <h3 class="lead"><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
     {% for post in site.posts limit:5 %}
     <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
