@@ -37,38 +37,18 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: About
-    url: /about/
+#  - title: About
+#    url: /about/
   - title: Posts
     url: /posts/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-pygments:    true
-markdown:     kramdown
-kramdown:
-  use_coderay: true
-  coderay:
-    coderay_line_numbers: nil
-    coderay_css: class
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfidje", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

@@ -11,10 +11,14 @@ tags: [ javascript, tutorial, nbd ]
 ## Show the date and time when the page loads
 In this example the event handler onLoad is embedded within the tag. OnLoad activates whenever a new page has finished downloading. This alert code tells the browser to create an alert box containing the value of the variable "today". Thus, it automatically prints out the date and time when the page has finished loading and requires no special action by the user.
 
-```javascript
-<SCRIPT LANGUAGE = "Javascript">
-var today= new Date()
-</SCRIPT>
-....
-<BODY onload=alert(today)>
-```
+
+{% highlight javascript %}
+import 'jqueryui/draggable';
+
+var makeDraggable = function(handle) {
+  handle = handle || '.js-drag-handle';
+  return this.$view.draggable({ handle: handle });
+};
+
+export default { makeDraggable };
+{% endhighlight %}
