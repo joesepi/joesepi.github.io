@@ -5,6 +5,10 @@ title: Music Bio
 tagline: Pre Least Best Beast Bio
 modified: 9-10-2014
 ---
+
+
+## The previous music bio
+
 joesepi is many things.
 
 Over the years, Joe Sepi <<The Man>> has found himself creating and dismantling bands in many interesting places. Performing music across the U.S. under various names and bands and guises for nearly two decades, this recovering Olympia WA / New York / Boise / Bennington VT resident now finds himself in Chicago &#8211; bursting with stellar music and a smashing new performing group.
