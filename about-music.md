@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/music.html
+permalink: /about/music
 title: Music Bio
 tagline: Pre Least Best Beast Bio
 modified: 9-10-2014
