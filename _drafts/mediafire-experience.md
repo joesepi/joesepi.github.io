@@ -15,5 +15,3 @@ Web interface
 Twitter account
 Glassdoor reviews
 
-
-Now I am just cheating to keep my streak going. :/
