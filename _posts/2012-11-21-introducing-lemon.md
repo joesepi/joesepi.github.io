@@ -10,7 +10,7 @@ tags:
   - review
 ---
 <p style="background-color:#FFFBCC; padding:5px;">
-  <code>Here is a little note I sent to a couple of friends. Upon reflection, I thought it could make for a nice little album review and endorsement. So I am sharing it with you too.</code>
+  Here is a little note I sent to a couple of friends. Upon reflection, I thought it could make for a nice little album review and endorsement. So I am sharing it with you too.
 </p>
 
 Hey Guys,
