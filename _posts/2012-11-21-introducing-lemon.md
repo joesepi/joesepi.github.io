@@ -15,7 +15,7 @@ tags:
 
 Hey Guys,
 
-[<img src="http://www.joesepi.com/blog/wp-content/uploads/2012/11/51FKHHRSM1L._SL500_AA300_-150x150.jpeg" alt="" title="Cheer Accident - Introducing Lemon" width="150" height="150" class="alignright size-thumbnail wp-image-135" />][1]I was listening to a band this morning and thought of you. The band is called Cheer Accident. They are stalwarts on the Chicago scene and are old friends of mine. I suspect you would enjoy hearing them.
+[<img src="http://www.joesepi.com/wp-content/uploads/2012/11/51FKHHRSM1L._SL500_AA300_-150x150.jpeg" alt="" title="Cheer Accident - Introducing Lemon" width="150" height="150" class="alignright size-thumbnail wp-image-135" />][1]I was listening to a band this morning and thought of you. The band is called Cheer Accident. They are stalwarts on the Chicago scene and are old friends of mine. I suspect you would enjoy hearing them.
 
 I was listening to their album *Introducing Lemon* this morning. The first track is 22 minutes long and instrumental. Most of their songs are instrumental. It takes about 12 minutes to really get to what makes Cheer Accident great, but when you get there, it is really awesome. The first 12 minutes are good too, but their true goodness comes about half way into this long song. What starts out as interesting, complex and intriguing goes dark and even more interesting, complex and intriguing.
 
