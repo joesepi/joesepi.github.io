@@ -14,6 +14,6 @@ categories:
 ---
 Just a weird normal nite:
 
-[<img src="http://www.joesepi.com/blog/wp-content/uploads/2011/06/20110613-094209.jpg" alt="20110613-094209.jpg" class="alignnone size-full" />][1]
+[<img src="http://www.joesepi.com/wp-content/uploads/2011/06/20110613-094209.jpg" alt="20110613-094209.jpg" class="alignnone size-full" />][1]
 
- [1]: http://www.joesepi.com/blog/wp-content/uploads/2011/06/20110613-094209.jpg
+ [1]: http://www.joesepi.com/wp-content/uploads/2011/06/20110613-094209.jpg
