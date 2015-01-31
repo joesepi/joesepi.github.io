@@ -7,7 +7,7 @@ categories:
   - MyBandRules!
 ---
 <p>Have I not mentioned this yet? So so busy&#8230;</p>
-<p><a href="http://www.joesepi.com/blog/wp-content/uploads/2007/11/roydale-poster_sm.jpg" title="Roydale Showcase Poster (sm)"><img src="http://www.joesepi.com/blog/wp-content/uploads/2007/11/roydale-poster_sm.jpg" alt="Roydale Showcase Poster (sm)" /></a></p>
+<p><a href="http://www.joesepi.com/wp-content/uploads/2007/11/roydale-poster_sm.jpg" title="Roydale Showcase Poster (sm)"><img src="http://www.joesepi.com/wp-content/uploads/2007/11/roydale-poster_sm.jpg" alt="Roydale Showcase Poster (sm)" /></a></p>
 <p>Friday November 9 at <a href="http://reggieslive.com/today.shtml?date=2007-11-09#855877" title="Reggie's Live" target="_blank">Reggie&#8217;s Live</a> (2105 So. State St.) in beautiful Chicago IL.</p>
 <p>A showcase for <a href="http://www.roydale.com" title="Great Great Label" target="_blank">The Roydale Recording Company</a>.<br />
 This is also our Record Release show for our new product: PILOT EP.<br />
