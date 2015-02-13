@@ -12,4 +12,4 @@ The songs are up on our MySpace page: <a href="http://myspace.com/joesepi" title
 
 ![RadioOne Chicago][1]
 
- [1]: http://www.joesepi.com/blog/wp-content/uploads/2008/02/radioonechicago2sy4.jpg
+ [1]: http://www.joesepi.com/wp-content/uploads/2008/02/radioonechicago2sy4.jpg

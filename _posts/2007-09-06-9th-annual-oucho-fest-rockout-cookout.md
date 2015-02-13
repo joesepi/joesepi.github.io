@@ -7,6 +7,8 @@ categories:
   - MyBandRules!
   - OtherPeoplesMusic
 ---
+_Sorry for the broken links and images :(_
+
 <a href="http://www.pensamplivox.com/oucho" target="_blank"><img src="http://pensamplivox.com/oucho/09/oucho-09.jpg" title="Free Free Free" alt="Free Free Free" height="800" width="493" border="0" /></a>
 
 <p style="background-color: #cccccc; margin-top: 0px" align="center">

@@ -6,7 +6,7 @@ permalink: /2011/09/15/persisting-changes/
 categories:
   - Web Develoment
 ---
-[<img src="http://www.joesepi.com/blog/wp-content/uploads/2011/09/ruleDiff1-300x147.png" alt="" title="ruleDiff" width="300" height="147" class="alignright size-medium wp-image-121" />][1]I just found this really cool feature of Chrome&#8217;s Dev Tools. I was thinking: &#8216;hey, it would be really cool if when I edited CSS after inspecting an element that the dev tools would highlight the changed declarations. Well, in a roundabout way, the dev tools do highlight your changes and they even keep a history. You just need to know where to look: switch to the Resources pane and locate the CSS file where your edits occurred and you will see a little arrow that signals there is a history of edits on that file. Whabam! There ya go!
+[<img src="http://www.joesepi.com/wp-content/uploads/2011/09/ruleDiff1-300x147.png" alt="" title="ruleDiff" width="300" height="147" class="alignright size-medium wp-image-121" />][1]I just found this really cool feature of Chrome&#8217;s Dev Tools. I was thinking: &#8216;hey, it would be really cool if when I edited CSS after inspecting an element that the dev tools would highlight the changed declarations. Well, in a roundabout way, the dev tools do highlight your changes and they even keep a history. You just need to know where to look: switch to the Resources pane and locate the CSS file where your edits occurred and you will see a little arrow that signals there is a history of edits on that file. Whabam! There ya go!
 
 [Persisting Changes][2]
 
