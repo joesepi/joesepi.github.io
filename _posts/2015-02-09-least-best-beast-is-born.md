@@ -2,7 +2,7 @@
 title: Least Best Beast Born
 author: joesepi
 layout: post
-permalink: /2015/0219//least-best-beast-born/
+permalink: /2015/02/19/least-best-beast-born/
 categories:
   - Music
 tags:
@@ -20,7 +20,11 @@ We are a rock band consisting of Patrick Conlon on bass, Mike Vlad on drums and 
 
 Since moving back to NY, I have been hungering to play some music. I was able to put together a couple one-off shows with various friends helping me out (including two appearances at PRFBBQ fests!) but still couldn't put together a regular band. After moving up to Peekskill (35mi north of the city) I was starting to think my chances were pretty slim of finding some like-minded souls to make some noise with.
 
-Eventually, I hooked up with Patrick Conlon, the proprietor of Peekskill's wonderful Speakeasy Tattoo. He and I played together with a number of drummers, but it wasn't working for one reason or another. At a certain point, I decided to up my search and actually make a flyer (LINK). At the same time, Patrick had a new guy start at the Tattoo studio who just happened to be a really solid drummer (and maybe more importantly a super good guy.)
+Eventually, I hooked up with Patrick Conlon, the proprietor of Peekskill's wonderful Speakeasy Tattoo. He and I played together with a number of drummers, but it wasn't working for one reason or another. At a certain point, I decided to up the search and actually make a [flyer](http://leastbestbeast.com/drummer). At the same time, Patrick had a new guy start at the Tattoo studio who just happened to be a really solid drummer (and maybe more importantly a super good guy.)
+
+Well, we are off and rocking. We have an upcoming show. Already talking about recording. We even have someone from a record label who is excited to hear us and coming to our first show. I am excited.
+
+[LeastBestBeast.com](http://leastbestbeast.com)
 
 
 
