@@ -18,7 +18,7 @@ We are a rock band consisting of Patrick Conlon on bass, Mike Vlad on drums and 
 
 ### More background
 
-Since moving back to NY, I have been hungering to play some music. I was able to put together a couple one-off shows with various friends helping me out (including two appearances at PRFBBQ fests!) but still couldn't put together a regular band. After moving up to Peekskill (35mi north of the city) I was starting to think my chances were pretty slim of finding some like-minded souls to make some noise with.
+Since leaving Chicago in 2008, I have been hungering to play some music. But in NY, I was only able to put together a few one-off shows with various friends helping out (including two appearances at [PRFBBQ](http://prfbbq.com) fests!) but still couldn't put together a regular band. After moving up to Peekskill (35mi north of the city) I was starting to think my chances were pretty slim of finding some like-minded souls to make some noise with.
 
 Eventually, I hooked up with Patrick Conlon, the proprietor of Peekskill's wonderful Speakeasy Tattoo. He and I played together with a number of drummers, but it wasn't working for one reason or another. At a certain point, I decided to up the search and actually make a [flyer](http://leastbestbeast.com/drummer). At the same time, Mike Vlad started working at the studio and just happened to be a really solid drummer. (And more importantly, a super good guy.)
 
