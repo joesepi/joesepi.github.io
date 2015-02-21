@@ -14,7 +14,7 @@ I am super excited to tell you about the new music project that has begun. It go
 
 ### tl;dr
 
-We are a rock band consisting of Patrick Conlon on bass, Mike Vlad on drums and myself doing guitar and vocals. We have been playing together since August of 2014. The sound is post-punk rock; solid trio, bitchin' riffs, just enough guitar solos. We are also mastering falling apart artfully anywhere we can, in a good way.
+We are a rock band consisting of Patrick Conlon on bass, Mike Vlad on drums and myself doing guitar and vocals. We have been playing together since August of 2014. The sound is post-punk rock &mdash; solid trio, bitchin' riffs, with just enough guitar solos. We are also mastering falling apart artfully anywhere we can, in a good way.
 
 ### More background
 
