@@ -1,8 +1,5 @@
 ---
 title: Introducing Lemon
-author: joesepi
-layout: post
-permalink: /2012/11/21/introducing-lemon/
 categories:
   - OtherPeoplesMusic
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Least Best Beast has a first show
+description: "Least Best Beast has a first show, yay!"
 categories:
   - Music
 tags:
