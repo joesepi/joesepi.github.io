@@ -1,8 +1,5 @@
 ---
 title: Least Best Beast has a first show
-author: joesepi
-layout: post
-permalink: /2015/02/19/least-best-beast-has-a-first-show/
 categories:
   - Music
 tags:

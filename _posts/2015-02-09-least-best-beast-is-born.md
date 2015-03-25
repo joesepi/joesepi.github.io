@@ -1,8 +1,5 @@
 ---
 title: Least Best Beast is Born
-author: joesepi
-layout: post
-permalink: /2015/02/19/least-best-beast-is-born/
 categories:
   - Music
 tags:
