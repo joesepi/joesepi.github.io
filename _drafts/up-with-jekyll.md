@@ -80,8 +80,8 @@ What you end up with is a site directory/file structure like this, which should 
 |   └── post.html
 |
 ├── _posts      <-- get processed using the post layout
-|   ├── 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   └── 2009-04-26-barcamp-boston-4-roundup.textile
+|   ├── 2007-10-29-why-every-programmer-should-play-nethack.md
+|   └── 2009-04-26-barcamp-boston-4-roundup.md
 |
 ├── about.md    <-- gets processed using the page layout
 ├── contact.md  <-- gets processed using the page layout
