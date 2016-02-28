@@ -18,7 +18,7 @@ What is Jekyll, exactly?
 
 Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
 
-How Jekyll works in a nutshell
+How Jekyll works in a nutshell:
 
 Jekyll has a config file (next section) that tells it how to process basic text files. By default, it reads each page's meta data (simply placed at the top of each file. more below) and knows how to process it to generate a site of static html files. That meta data will say which layout it should use (page style layout or post style layout as two examples) and each layout will probably reference include files (more below but examples being: header, nav, footer). Blog posts are named a specific way, which depends on how you specify them in the config file, but an example being: _post/2016-0229-how-to-go-jekyll-with-only-broken-guitars.md.
 
