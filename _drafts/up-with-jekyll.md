@@ -20,9 +20,12 @@ Jekyll is a simple, blog-aware, static site generator. It takes a template direc
 
 How Jekyll works in a nutshell:
 
-Jekyll has a config file (section 3 below) that tells it how to process basic text files. By default, it reads each page's meta data (simply placed at the top of each file. more below) and knows how to process it to generate a site of static html files. That meta data will say which layout it should use (page style layout or post style layout as two examples) and each layout will probably reference include files (more below but examples being: header, nav, footer). Blog posts are named a specific way, which depends on how you specify them in the config file, but an example being: _post/2016-0229-how-to-go-jekyll-with-only-broken-guitars.md.
+Jekyll has a config file (section 3 below) that tells it how to process basic text files. By default, it reads each page's meta data (simply placed at the top of each file. more below) and knows how to process it to generate a site of static html files. That meta data will say which layout it should use (page style layout or post style layout as two examples) and each layout will probably reference include files (more below but examples being: header, nav, footer). Blog posts are named a specific way, which depends on how you specify them in the config file.
 
-For example, this: `/_posts/2015-12-17-lbb-show.md` gets turned into this as the path for your web browser: `http://joesepi.com/2015/12/17/lbb-show/`
+For example, this: <br>
+`/_posts/2015-12-17-lbb-show.md` <br>
+gets turned into this as the path for your web browser: <br>
+`http://joesepi.com/2015/12/17/lbb-show/`
 
 docs: https://jekyllrb.com/docs/home/
 
