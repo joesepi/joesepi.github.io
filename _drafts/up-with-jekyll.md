@@ -21,7 +21,7 @@ Jekyll has a config file (next section) that tells it how to process basic text 
 
 For example, this: `/_posts/2015-12-17-lbb-show.md` gets turned into this as the path for your web browser: `http://joesepi.com/2015/12/17/lbb-show/`
 
-1) https://jekyllrb.com/docs/home/
+docs: https://jekyllrb.com/docs/home/
 
 
 -----
@@ -29,8 +29,6 @@ For example, this: `/_posts/2015-12-17-lbb-show.md` gets turned into this as the
 
 Jekyll is, at its core, a text transformation engine. The concept behind the system is this: you give it text written in your favorite markup language, be that Markdown, Textile, or just plain HTML, and it churns that through a layout or a series of layout files. Throughout that process you can tweak how you want the site URLs to look, what data gets displayed in the layout, and more. This is all done through editing text files; the static web site is the final product.
 
-
-READ THIS:
 docs: https://jekyllrb.com/docs/structure/
 
 
