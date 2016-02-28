@@ -8,12 +8,13 @@ categories:
 tags: [ jekyll, static site ]
 ---
 
+> Some parts are directly stripped from docs site and some parts are modified sections of the docs site on Jekyll: https://jekyllrb.com/docs
+
 
 -----
 > 1 | Jekyll
 
-So what is Jekyll, exactly?Permalink
-
+What is Jekyll, exactly?
 
 Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
 
