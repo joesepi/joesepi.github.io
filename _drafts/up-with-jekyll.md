@@ -66,3 +66,24 @@ code: https://raw.githubusercontent.com/joesepi/joesepi.github.io/master/_posts/
 page: http://joesepi.com/2015/12/17/lbb-show/
 
 
+What you end up with is a site directory/file structure like this, which should help put some of these bits into context:
+```
+.
+├── _config.yml
+|
+├── _includes
+|   ├── footer.html
+|   └── header.html
+|
+├── _layouts
+|   ├── post.html
+|   └── post.html
+|
+├── _posts      <-- get processed using the post layout
+|   ├── 2007-10-29-why-every-programmer-should-play-nethack.textile
+|   └── 2009-04-26-barcamp-boston-4-roundup.textile
+|
+├── about.md    <-- gets processed using the page layout
+├── contact.md  <-- gets processed using the page layout
+└── index.html  <-- this page is html (not md) because you usually do more layout work that is unique to your home page
+```
