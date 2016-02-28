@@ -3,7 +3,6 @@ title: From 0 - 60 with Jekyll
 author: joesepi
 layout: post
 description: Learning to Jekyll with only broken guitars
-permalink:
 categories:
   - Learning
 tags: [ jekyll, static site ]
