@@ -33,7 +33,7 @@ docs: https://jekyllrb.com/docs/structure/
 
 
 -----
-> 2 | Configuration
+> 3 | Configuration
 
 Jekyll has powerful and flexible configuration options that should be specified in a _config.yml file placed in your site’s root directory.
 
@@ -45,7 +45,7 @@ docs: https://jekyllrb.com/docs/configuration/
 
 
 -----
-> 3 | Front Matter
+> 4 | Front Matter
 
 Front matter is where Jekyll starts to get really cool. Any file that contains a YAML front matter block will be processed by Jekyll as a special file. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines. Here is a basic example:
 
