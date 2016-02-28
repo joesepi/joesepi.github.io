@@ -42,6 +42,8 @@ code: https://github.com/joesepi/joesepi.github.io/blob/master/_config.yml
 
 As you get near the bottom, it gets less important at this stage of learning.
 
+docs: https://jekyllrb.com/docs/configuration/
+
 
 -----
 > 3 | Front Matter
