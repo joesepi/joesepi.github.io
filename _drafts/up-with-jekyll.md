@@ -62,8 +62,8 @@ Between these triple-dashed lines, you can set predefined variables (see below f
 
 docs: https://jekyllrb.com/docs/frontmatter/
 
-Good example is a blog post from my site:
-code: https://raw.githubusercontent.com/joesepi/joesepi.github.io/master/_posts/2015-12-17-lbb-show.md
+Good example is a blog post from my site:<br>
+code: https://raw.githubusercontent.com/joesepi/joesepi.github.io/master/_posts/2015-12-17-lbb-show.md <br>
 page: http://joesepi.com/2015/12/17/lbb-show/
 
 
