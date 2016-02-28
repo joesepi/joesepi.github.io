@@ -37,9 +37,8 @@ docs: https://jekyllrb.com/docs/structure/
 
 Jekyll has powerful and flexible configuration options that should be specified in a _config.yml file placed in your site’s root directory.
 
-Good example from my site:
-code: https://github.com/joesepi/joesepi.github.io/blob/master/_config.yml
-
+Good example from my site: <br>
+code: https://github.com/joesepi/joesepi.github.io/blob/master/_config.yml <br>
 As you get near the bottom, it gets less important at this stage of learning.
 
 docs: https://jekyllrb.com/docs/configuration/
