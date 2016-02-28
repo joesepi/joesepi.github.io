@@ -81,7 +81,7 @@ What you end up with is a site directory/file structure like this, which should 
 |   └── header.html
 |
 ├── _layouts
-|   ├── post.html
+|   ├── page.html
 |   └── post.html
 |
 ├── _posts      <-- get processed using the post layout
