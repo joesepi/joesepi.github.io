@@ -19,6 +19,8 @@ Jekyll is a simple, blog-aware, static site generator. It takes a template direc
 
 Jekyll has a config file (next section) that tells it how to process basic text files. By default, it reads each page's meta data (simply placed at the top of each file. more below) and knows how to process it to generate a site of static html files. That meta data will say which layout it should use (page style layout or post style layout as two examples) and each layout will probably reference include files (more below but examples being: header, nav, footer). Blog posts are named a specific way, which depends on how you specify them in the config file, but an example being: _post/2016-0229-how-to-go-jekyll-with-only-broken-guitars.md.
 
+For example, this: `/_posts/2015-12-17-lbb-show.md` gets turned into this as the path for your web browser: `http://joesepi.com/2015/12/17/lbb-show/`
+
 1) https://jekyllrb.com/docs/home/
 
 
@@ -48,8 +50,8 @@ As you get near the bottom, it gets less important at this stage of learning.
 
 Front matter is where Jekyll starts to get really cool. Any file that contains a YAML front matter block will be processed by Jekyll as a special file. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines. Here is a basic example:
 
-```
 example:
+```
 ---
 layout: post
 title: Blogging Like a Hacker
