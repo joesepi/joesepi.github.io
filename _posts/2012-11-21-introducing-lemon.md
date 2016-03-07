@@ -24,4 +24,4 @@ Anyway&#8230;
 
 - Joe
 
- [1]: http://www.joesepi.com/blog/wp-content/uploads/2012/11/51FKHHRSM1L._SL500_AA300_.jpeg
+ [1]: http://www.joesepi.com/wp-content/uploads/2012/11/51FKHHRSM1L._SL500_AA300_.jpeg
