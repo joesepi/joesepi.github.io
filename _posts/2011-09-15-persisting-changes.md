@@ -12,5 +12,5 @@ categories:
 
 **Update**: Things have changed in Chrome and this isn&#8217;t as easy to find and work with. The issue is <a href="https://code.google.com/p/chromium/issues/detail?id=140553" target="_blank">being tracked</a> and I expect a better experience in a future release.
 
- [1]: http://www.joesepi.com/blog/wp-content/uploads/2011/09/ruleDiff1.png
+ [1]: http://www.joesepi.com/wp-content/uploads/2011/09/ruleDiff1.png
  [2]: http://code.google.com/chrome/devtools/docs/elements-styles.html#persist
