@@ -12,7 +12,7 @@ tags: [ javascript, tutorial, nbd ]
 In this example the event handler onLoad is embedded within the tag. OnLoad activates whenever a new page has finished downloading. This alert code tells the browser to create an alert box containing the value of the variable "today". Thus, it automatically prints out the date and time when the page has finished loading and requires no special action by the user.
 
 
-{% highlight javascript %}
+```
 import 'jqueryui/draggable';
 
 var makeDraggable = function(handle) {
@@ -21,4 +21,4 @@ var makeDraggable = function(handle) {
 };
 
 export default { makeDraggable };
-{% endhighlight %}
+```
