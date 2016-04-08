@@ -8,13 +8,6 @@ tags: [about]
 
 See also my [engineering and management story](/day-job).
 
-```
-NOTE: This page is currently a work in progress.
-```
-```
-- Joe Sepi (April 7, 2016)
-```
-
 I very much enjoy engaging and supporting the engineering community by:
 
 - Speaking at conferences and events
@@ -27,14 +20,12 @@ I very much enjoy engaging and supporting the engineering community by:
 NYCHTML5
 ---
 
-**Meetup Event:**<br>
-The [NYCHTML5 Meetup group](http://www.meetup.com/nychtml5) was founded in 2011 by a good friend (and Google Chrome Dev Advocate), [Domenic Denicola](https://domenic.me). About a year after starting the group, he handed it off to me and my co-organizer, [John K Paul](https://twitter.com/johnkpaul). Under our stewardship, [the group has grown to well over 2400 members](http://www.meetup.com/nychtml5/members/) and has held over 30 events (many [recorded by Hakka Labs](https://www.hakkalabs.co/meetups/nychtml5)). We are very proud of the inclusive community we have fostered and we are regularly approached by first time speakers wishing to present to the group.
-
-**Broadcast:**<br>
-We also started a complimentary [broadcast series](https://www.youtube.com/playlist?list=PLxGLihicw5Wp5fjDjAJfpcp02OBS8X--C) (video/audio podcast) where we follow up with our presenters and dig a little deeper into the topics they shared at the meetup.
-
-**Other Events:**<br>
-In addition to the monthly meetups, we have held many hacker hours and other special events.
+- Founded in 2011
+- Has grown to well over [2400 members](http://www.meetup.com/nychtml5/members/)
+- Held over [30 events](http://www.meetup.com/nychtml5) (many [recorded by Hakka Labs](https://www.hakkalabs.co/meetups/nychtml5))
+- Fostered inclusive community (regularly approached by first time speakers)
+- Started a complimentary [broadcast series](https://www.youtube.com/playlist?list=PLxGLihicw5Wp5fjDjAJfpcp02OBS8X--C) (video/audio podcast)
+- Put on many hacker hours and other special events
 
 Open Source
 ---
