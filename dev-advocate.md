@@ -24,12 +24,13 @@ I very much enjoy engaging and supporting the engineering community by:
 NYCHTML5
 ---
 
-- Founded in 2011
+I am the co-organizer of the [NYCHTML5 group](http://www.meetup.com/nychtml5), which was founded in 2011 and has become a fixture in the NYC tech scene.
+
 - Has grown to well over [2400 members](http://www.meetup.com/nychtml5/members/)
-- Held over [30 events](http://www.meetup.com/nychtml5) (many [recorded by Hakka Labs](https://www.hakkalabs.co/meetups/nychtml5))
-- Fostered inclusive community (regularly approached by first time speakers)
+- Organized over [30 events](http://www.meetup.com/nychtml5) (many [recorded by Hakka Labs](https://www.hakkalabs.co/meetups/nychtml5))
+- Fosters an inclusive community (we are regularly approached by first time speakers)
 - Started a complimentary [broadcast series](https://www.youtube.com/playlist?list=PLxGLihicw5Wp5fjDjAJfpcp02OBS8X--C) (video/audio podcast)
-- Put on many hacker hours and other special events
+- Held many hacker hours and other special events
 
 Open Source
 ---
@@ -52,6 +53,20 @@ Adobe/Behance
 <!-- - Uncubed Year-end event -->
 
 
+New York Times
+---
+
+<!-- Email from Rajiv? -->
+
+- Organized a weekly JavaScript lunch and learn series that ran for over a year
+- Initiated a weekly social coding event where engineers were able to work collaboratively in an open space
+- Participated in organizing [TimesOpen events](http://developers.nytimes.com/events/), including the very popular [Open Source Science Fair](http://open.blogs.nytimes.com/2012/11/16/open-source-science-fair-highlights/)
+- Was the emcee and host of a number of TimesOpen events
+- Was instrumental in revitalizing the [TimesOpen Blog](http://open.blogs.nytimes.com/)
+- Contributed content to the [TimesOpen Blog](http://open.blogs.nytimes.com/2013/05/29/promises-promises/)
+- Helped to restructure the [Times Developer Network](http://developer.nytimes.com/)
+
+
 Novus
 ---
 
@@ -59,20 +74,9 @@ Novus
 - Led the team developing [nvd3](http://nvd3.org/)
 - Coordinated sponsorship of [JSConf](http://jsconf.com)
 
+<hr>
 
-New York Times
----
-
-<!-- Email from Rajiv? -->
-
-- Organized a weekly JavaScript lunch and learn series that ran for over a year
-- Initiated a weekly social coding event where engineers worked together in a large conference room
-- Helped to restructure the [NYT developers space](http://developer.nytimes.com/)
-- Participated in organizing [TimesOpen events](http://developers.nytimes.com/events/)
-- Hosted some TimesOpen events
-- Helped create the [Open Source Science Fair](http://open.blogs.nytimes.com/2012/11/16/open-source-science-fair-highlights/)
-- Was instrumental in revitalizing the [Times Open Blog](http://open.blogs.nytimes.com/)
-- Contributed content to the [Times Open Blog](http://open.blogs.nytimes.com/2013/05/29/promises-promises/)
+There are a number of [recommendations on my LinkedIn page](https://www.linkedin.com/in/joesepi) and most of them talk about my passion for Dev Advocacy.
 
 
 
