@@ -15,7 +15,4 @@ NOTE: This page is currently a work in progress.
 - Joe Sepi (April 7, 2016)
 ```
 
-Summary
----
-
-More here very soon.
+For now, please see my [LinkedIn Page](https://www.linkedin.com/in/joesepi).
