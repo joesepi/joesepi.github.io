@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /dayjob
+permalink: /day-job
 title: The things I have done over the last 17 years within the tech field
 tagline: The things I have done over the last 17 years within the tech field
 tags: [about]
