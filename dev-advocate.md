@@ -8,6 +8,8 @@ tags: [about]
 
 See also my [engineering and management story](/day-job).
 
+<hr>
+
 I very much enjoy engaging and supporting the engineering community by:
 
 - Speaking at conferences and events
@@ -15,6 +17,8 @@ I very much enjoy engaging and supporting the engineering community by:
 - Writing articles, tutorials and creating screencasts
 - Contributing to open source projects
 - Hosting podcasts
+
+<hr>
 
 
 NYCHTML5
