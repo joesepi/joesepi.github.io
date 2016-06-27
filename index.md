@@ -4,7 +4,7 @@ description: "For all the things, me"
 tags: [what, goes, here]
 ---
 
-Hi. I'm a Sr. Software Engineer at <a href="http://be.net" target="_blank">Behance</a>/<a href="http://adobe.com" target="_blank">Adobe</a> and I play guitar and sing in the indie guitar rock juggernaut known as <a href="http://leastbestbeast.com" target="_blank">Least Best Beast</a>.<!--\\
+Hi. I'm a Lead Developer Evangelist with the <a href="http://StrongLoop.com" target="_blank">StrongLoop team</a> within <a href="http://ibm.com" target="_blank">IBM</a> and I play guitar and sing in the indie guitar rock juggernaut known as <a href="http://leastbestbeast.com" target="_blank">Least Best Beast</a>.<!--\\
 &#8614; _[read more...](/about/)_ -->
 
 ---
