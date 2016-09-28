@@ -2,9 +2,13 @@
 
 It is not uncommon for people to believe that one or more of the high-level Node.js groups manage the day to day work on the project, so let's address those first:
 
-[The Node.js Foundation Board](https://nodejs.org/en/foundation/board/), which is composed of representatives from corporate members, a representative of the Technical Steering Committee, and representatives elected by the individual membership class, **does not deal with the day to day work**. Instead, the board sets the business and technical direction as well as oversees IP management, marketing, and events on behalf of the organization.
+[The Node.js Foundation Board](https://nodejs.org/en/foundation/board/), which is made up of corporate members representatives, a Technical Steering Committee representative, and elected individual membership class representatives, **does not deal with the day to day work**. Instead, responsibilities of the board are primarily:
+- set business/technical direction
+- oversee intellectual property (IP) management
+- marketing
+- event planning
 
-[The Technical Steering Committee](https://github.com/nodejs/tsc) (TSC), which is the technical governing body of the Node.js Foundation, **does not deal with the day to day work**. It admits and oversees all top-level Projects in the Node.js Foundation.
+[The Technical Steering Committee](https://github.com/nodejs/tsc) (TSC), which is the technical governing body of the Node.js Foundation, **does not deal with the day to day work**. It admits and retains oversight of all top-level projects under the Node.js Foundation's purview.
 
 [The Core Technical Committee](https://github.com/nodejs/ctc), which is in charge of the ongoing maintenance and evolution of Node.js as well as driving the project and community forward, _does handle day to day technical decisions, however only when they need to be made_. (See below for more information.)
 
