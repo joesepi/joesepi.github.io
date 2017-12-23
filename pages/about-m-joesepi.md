@@ -1,10 +1,11 @@
 ---
 layout: page
-permalink: /about/music
-title: Music Bio
-tagline: Pre Least Best Beast Bio
-modified: 9-10-2014
+permalink: /about/music/joesepi/
+title: Joe Sepi as joesepi, the band
+tagline: the days of yore
 ---
+
+Joe Sepi had a band called joesepi.
 
 
 ## The previous music bio
