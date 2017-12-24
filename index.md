@@ -1,11 +1,13 @@
 ---
 layout: home
+title: Joe Sepi
 description: "For all the things, me"
 tags: [what, goes, here]
 ---
 
-Hi. I'm the Lead Developer Evangelist with the <a href="http://StrongLoop.com" target="_blank">StrongLoop team</a> within <a href="http://ibm.com" target="_blank">IBM</a> and I play guitar and sing in the indie guitar rock juggernaut known as <a href="http://leastbestbeast.com" target="_blank">Least Best Beast</a>.<!--\\
-&#8614; _[read more...](/about/)_ -->
+**Program Director, Developer Advocacy** in NYC (and all points east of the Mississippi) for <a href="http://ibm.com" target="_blank">IBM</a>
+
+**Lead Guitar/Vocals** for the indie guitar-rock juggernaut <a href="http://leastbestbeast.com" target="_blank">Least Best Beast</a> as well as the improv punk/metal outfit <a href="http://mustardtiger.rocks" target="_blank">Mustard Tiger</a>
 
 ---
 
