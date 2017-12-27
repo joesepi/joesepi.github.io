@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/music
+permalink: /about/music/
 title: Joe Sepi and the many musical outlets
 ---
 
@@ -8,9 +8,11 @@ Joe Sepi has been playing music since he was 14.
 
 ## Current Projects
 
-**Least Best Beast** - a punk/rock trio. First record almost done.
+**[Least Best Beast](http://leastbestbeast.com)**<br>
+a punk/rock trio. First record almost done.
 
-**Mustard Tiger** - an improv punk/metal band. Never Rehearse; Always Destroy.
+**[Mustard Tiger](http://mustardtiger.rocks)**<br>
+an improv punk/metal band. Never Rehearse; Always Destroy.
 
 ---
 
