@@ -4,7 +4,6 @@ title: Joe Sepi
 description: "For all the things, me"
 tags: [what, goes, here]
 ---
-Hi!
 
 **Program Director, Developer Advocacy** in NYC (and all points east of the Mississippi) for <a href="http://ibm.com" target="_blank">IBM</a>
 
