@@ -37,8 +37,10 @@ bing_verify:
 links:
   - title: Home
     url: /
-#  - title: About
-#    url: /about/
+  - title: About
+    url: /about/
+  - title: Music
+    url: /about/music/
   - title: Posts
     url: /posts/
 

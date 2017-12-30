@@ -4,12 +4,12 @@ permalink: /about/music/
 title: Joe Sepi and the many musical outlets
 ---
 
-Joe Sepi has been playing music since he was 14.
+Joe Sepi has been playing music since he was 14. More about that soon...
 
 ## Current Projects
 
 **[Least Best Beast](http://leastbestbeast.com)**<br>
-a punk/rock trio. First record almost done.
+a punk/rock trio. First record is almost done.
 
 **[Mustard Tiger](http://mustardtiger.rocks)**<br>
 an improv punk/metal band. Never Rehearse; Always Destroy.
@@ -20,9 +20,9 @@ an improv punk/metal band. Never Rehearse; Always Destroy.
 
 ### Chicago, IL
 
-***joesepi*** - aka Joe Sepi
+**[&#42;joesepi&#42;](/about/music/joesepi)** - aka Joe Sepi
 
-**Century Rocket Building**
+**[Century Rocket Building](/about/music/crb)**
 
 **Bearhawk**
 
