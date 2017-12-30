@@ -14,7 +14,7 @@ Sepi's roommate and bandmate, Joel Braun, got a decent job that gave him a lapto
 
 You can read more about 🎶 [the music half of the story](/about/music/) 🎶.
 
-A lot of this story is captured in a talk I gave a tech conference called [Node Interactive in Vancouver 2017](http://events17.linuxfoundation.org/events/node-interactive):
+A lot of this story is captured in a talk at a tech conference called [Node Interactive in Vancouver 2017](http://events17.linuxfoundation.org/events/node-interactive):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9BDn6HYmgWc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
