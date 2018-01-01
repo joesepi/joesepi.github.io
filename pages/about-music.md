@@ -22,9 +22,9 @@ an improv punk/metal band. Never Rehearse; Always Destroy.
 
 **[&#42;joesepi&#42;](/about/music/joesepi)** - aka Joe Sepi
 
-**[Century Rocket Building](/about/music/crb)**
+**[Century Rocket Building](/about/music/crb)** - Building Rocket Centuries
 
-**Bearhawk**
+**[Bearhawk](/about/music/bearhawk)** - Killer Wails of Louderness
 
 **GasMasK**
 
