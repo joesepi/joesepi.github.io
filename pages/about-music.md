@@ -20,11 +20,14 @@ an improv punk/metal band. Never Rehearse; Always Destroy.
 
 ### Chicago, IL
 
-**[&#42;joesepi&#42;](/about/music/joesepi)** - aka Joe Sepi
+**[&#42;joesepi&#42;](/about/music/joesepi)**<br>
+aka Joe Sepi
 
-**[Century Rocket Building](/about/music/crb)** - Building Rocket Centuries
+**[Century Rocket Building](/about/music/crb)**<br>
+Building Rocket Centuries
 
-**[Bearhawk](/about/music/bearhawk)** - Killer Wails of Louderness
+**[Bearhawk](/about/music/bearhawk)**<br>
+Killer Wails of Louderness
 
 **GasMasK**
 
