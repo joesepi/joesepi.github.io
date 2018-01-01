@@ -7,6 +7,7 @@ tagline: the days of yore
 
 Joe Sepi had a band called joesepi.
 
+[joesepi.bandcamp.com](https://joesepi.bandcamp.com/)
 
 ## The previous music bio
 
