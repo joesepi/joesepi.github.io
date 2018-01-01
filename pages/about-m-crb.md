@@ -5,6 +5,8 @@ title: Century Rocket Building
 tagline: building rocket centuries
 ---
 
+[CenturyRocketBuilding.bandcamp.com](http://centuryrocketbuilding.bandcamp.com)
+
 In the here and now, to work the craft  and make music that solves for an aggregate of rock reflex, art-punk nuts and a slight jazz fever.  The CRB: slightly like something else, but with a new pair of glasses and cleaned up nice, gosh darn it, with a new towel and a slight trim, short-back-and-sides, thankyouverymuch.
 
 [the] Century Rocket Building drapes its conceptual arms lovingly around these three human engineers:
