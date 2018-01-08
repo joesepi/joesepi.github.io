@@ -31,7 +31,8 @@ Building Rocket Centuries
 **[Bearhawk](/about/music/bearhawk)**<br>
 Killer Wails of Louderness
 
-**GasMasK**
+**[GasMasK](/about/music/gasmask)**<br>
+Harnessing Absurdity Almost Brilliantly Under Dank Skies
 
 **Farm Team**
 
