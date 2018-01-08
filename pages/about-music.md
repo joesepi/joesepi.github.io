@@ -43,11 +43,15 @@ Go To Rock and Take A Left
 
 **My Tongue Under The City**
 
+<br>
+
 ### Bennington, VT
 
 **Chicmagnet 225**
 
 **The Lonnie Giles All Star Team**
+
+<br>
 
 ### Olympia, WA
 
@@ -57,6 +61,8 @@ Go To Rock and Take A Left
 
 **The Lonnie Giles All Star Team**
 
+<br>
+
 ### Boise, ID
 
 **Big Mud Wagon**
@@ -65,4 +71,15 @@ Go To Rock and Take A Left
 
 **The Lonnie Giles All Star Team**
 
+**Dolemite**
+
+<br>
+
+### Saratoga, NY
+
+**IDK**
+
+**Virgin Reality**
+
+**Control Resistance**
 
