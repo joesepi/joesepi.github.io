@@ -34,7 +34,8 @@ Killer Wails of Louderness
 **[GasMasK](/about/music/gasmask)**<br>
 Harnessing Absurdity Almost Brilliantly Under Dank Skies
 
-**Farm Team**
+**[Farm Team](/about/music/farm-team)**<br>
+Go To Rock and Take A Left
 
 **The Lonnie Giles All Star Team**
 
