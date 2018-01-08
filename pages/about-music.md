@@ -65,11 +65,9 @@ Go To Rock and Take A Left
 
 ### Boise, ID
 
-**Big Mud Wagon**
-
 **Grant Avenue**
 
-**The Lonnie Giles All Star Team**
+**Big Mud Wagon**
 
 **Dolemite**
 
