@@ -37,6 +37,8 @@ Harnessing Absurdity Almost Brilliantly Under Dank Skies
 **[Farm Team](/about/music/farm-team)**<br>
 Go To Rock and Take A Left
 
+**The Fucking Stars**
+
 **The Lonnie Giles All Star Team**
 
 **Manhattan Glasses**
