@@ -57,7 +57,8 @@ Go To Rock and Take A Left
 
 ### Olympia, WA
 
-**Friends of Enemies**
+**[Friends of Enemies](/about/music/foe)**<br>
+It's in the water
 
 **Louis DePalmer**
 
