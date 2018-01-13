@@ -38,20 +38,26 @@ Harnessing Absurdity Almost Brilliantly Under Dank Skies
 Go To Rock and Take A Left
 
 **The Fucking Stars**
+Burned Too Bright; Died Before Flight
 
 **The Lonnie Giles All Star Team**
+Born For a Broken Man
 
 **Manhattan Glasses**
+Dark Nights Breed A Dark Brood
 
 **My Tongue Under The City**
+Underbelly Anthems From the Space Beneath
 
 <br>
 
 ### Bennington, VT
 
 **Chicmagnet 225**
+Remember Who Your Daddy Is, Noel
 
 **The Lonnie Giles All Star Team**
+Born For a Broken Man
 
 <br>
 
@@ -61,26 +67,34 @@ Go To Rock and Take A Left
 It's in the water
 
 **Louis DePalmer**
+Like A Three Sided Die
 
 **The Lonnie Giles All Star Team**
+Born For a Broken Man
 
 <br>
 
 ### Boise, ID
 
 **Grant Avenue**
+Grant Olsen + Anyone = Awesome
 
 **Big Mud Wagon**
+Seasonal Singers Front A Truck
 
 **Dolemite Motherfucker**
+B-Rated Mayhem
 
 <br>
 
 ### Saratoga, NY
 
 **IDK**
+Metal Slivers Under Your Skin
 
 **Virgin Reality**
+Passion Pairing Pop
 
 **Control Resistance**
+Misunderstood
 
