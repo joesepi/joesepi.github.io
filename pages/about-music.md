@@ -37,26 +37,26 @@ Harnessing Absurdity Almost Brilliantly Under Dank Skies
 **[Farm Team](/about/music/farm-team)**<br>
 Go To Rock and Take A Left
 
-**The Fucking Stars**
+**The Fucking Stars**<br>
 Burned Too Bright; Died Before Flight
 
-**The Lonnie Giles All Star Team**
+**The Lonnie Giles All Star Team**<br>
 Born For a Broken Man
 
-**Manhattan Glasses**
+**Manhattan Glasses**<br>
 Dark Nights Breed A Dark Brood
 
-**My Tongue Under The City**
+**My Tongue Under The City**<br>
 Underbelly Anthems From the Space Beneath
 
 <br>
 
 ### Bennington, VT
 
-**Chicmagnet 225**
+**Chicmagnet 225**<br>
 Remember Who Your Daddy Is, Noel
 
-**The Lonnie Giles All Star Team**
+**The Lonnie Giles All Star Team**<br>
 Born For a Broken Man
 
 <br>
@@ -66,23 +66,23 @@ Born For a Broken Man
 **[Friends of Enemies](/about/music/foe)**<br>
 It's in the water
 
-**Louis DePalmer**
+**Louis DePalmer**<br>
 Like A Three Sided Die
 
-**The Lonnie Giles All Star Team**
+**The Lonnie Giles All Star Team**<br>
 Born For a Broken Man
 
 <br>
 
 ### Boise, ID
 
-**Grant Avenue**
+**Grant Avenue**<br>
 Grant Olsen + Anyone = Awesome
 
-**Big Mud Wagon**
+**Big Mud Wagon**<br>
 Seasonal Singers Front A Truck
 
-**Dolemite Motherfucker**
+**Dolemite Motherfucker**<br>
 B-Rated Mayhem
 
 <br>
