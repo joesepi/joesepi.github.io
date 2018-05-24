@@ -11,13 +11,5 @@ BEARHAWK is on the indie-lover's must-have list for a reason, they effortlessly 
 
 When you get the album you'll notice everything from organs and acoustics, to Sepi shredding your room in half with a solo. There are walls of sound that will make you want to break something. Which is perfect because, Jim's symbols sound like rocks breaking glass. You will get moved. Especially when the meat of the songs is introduced. Jon's bass plays like it's in the hands of God's little brother. And God's little brother rips.
 
-This music has the ears of enthusiasts hailing reviews like "I want to show them to my stupid friends to explain what rock is." to "I'm picky, and I'm simply addicted to these guys". See why.
-
-The CD itself is a collector's item. Critics comment "I love the art and I don't know why" and "read the lyrics, they're life changers".
-
 This phenomenon called BEARHAWK is all too weird considering these guys are simple organic midwest. Chances are you've seen one of them on the street. They're charm is born of honesty and endless creativity. They surf the lake, (that's right) bike the shore, hug dogs and rock crowds. These are the guys you don't want anyone else to know about so they can be all yours.
-
-Put 'em in your pod and enjoy. They're the second coming of WhaleBall. The songs are about you, and the music is selfless, liberating and free. Listen to Joe Chicago to jump, Ineptune to stomp, Unwanted to cry, Poem to call your mom, Carbon Nation to laugh at yourself.
-
-Thanks, always on your side, BEARHAWK. :)
 
