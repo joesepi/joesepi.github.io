@@ -5,6 +5,8 @@ title: Friends of Enemies
 tagline: This One Superhero
 ---
 
+[foe21.bandcamp.com](https://foe21.bandcamp.com)
+
 A billion ants, happening perfectly, create order out of chaos...  a collective, pounding rhythm formed by random individuals. Free of monotony, flat lines. A fertile soil, a healthy soul, from which rank tunes are born and bred... sons and daughters, sired by their makers.  Songs from the heart, for those whose beat fiercely.
 
 Don't get me wrong. This ain't no Nature Rock.<br />
