@@ -1,5 +1,5 @@
 ---
-title: ES2015: getting started
+title: ES2015 getting started
 author: joesepi
 layout: post
 description: "ES2015 is awesome. Let's do some together"

@@ -1,0 +1,33 @@
+{
+  "title": "Joe Sepi",
+  "url": "https://joesepi.com",
+  "baseurl": "",
+  "repo": "http://github.com/joesepi/joesepi.github.io",
+  "comments": false,
+  "author": {
+    "name": "Joe Sepi"
+  },
+  "og_locale": "en_US",
+  "owner": {
+    "name":           "Joe Sepi",
+    "avatar":         "IMG_8368_crop3.jpg",
+    "bio":            "Code, Music, Life",
+    "email":          "sepi@joesepi.com",
+    "twitter":        "joe_sepi",
+    "github":         "joesepi",
+    "stackexchange":  "joe-sepi",
+    "facebook":       "joesepi",
+    "instagram":      "joesepi",
+    "tumblr":         "joesepi",
+    "linkedin":       "joesepi",
+    "flickr":         "joesepi",
+    "google_plus":      "+joesepi"
+  },
+  "links": [
+    { "title": "Home", "url": "/" },
+    { "title": "About", "url": "/about/" },
+    { "title": "Music", "url": "/about/music/" },
+    { "title": "Posts", "url": "/posts/" }
+  ]
+
+}

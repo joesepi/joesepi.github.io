@@ -32,10 +32,10 @@
     {{ content }}
 
     <h3 class="lead"><a href="/posts/">Recent Posts</a></h3>
-    {% for post in site.posts limit:5 %}
+    {% for post in collections.posts reversed limit: 5 %}
     <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-      <h2 itemprop="headline"><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
-      <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+      <h2 itemprop="headline"><a href="{{ post.data.url }}" rel="bookmark" title="{{ post.data.title }}">{{ post.data.title }}</a></h2>
+      <p itemprop="text">{% if post.data.description %}{{ post.data.description }}{% else %}{{ post.data.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
     </article>
     {% endfor %}
 

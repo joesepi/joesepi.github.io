@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/code
+permalink: /about/tech/
 title: Code Bio
 tagline: Talking about me in code
 modified: 1-15-2015

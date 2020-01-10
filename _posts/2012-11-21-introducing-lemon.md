@@ -1,11 +1,13 @@
 ---
 title: Introducing Lemon
+author: joesepi
+layout: post
+permalink: /2012/11/21/introducing-lemon/
 categories:
   - OtherPeoplesMusic
-tags:
-  - music
-  - review
+tags: [ "music", "review" ]
 ---
+
 <p style="background-color:#FFFBCC; padding:5px;">
   Here is a little note I sent to a couple of friends. Upon reflection, I thought it could make for a nice little album review and endorsement. So I am sharing it with you too.
 </p>
